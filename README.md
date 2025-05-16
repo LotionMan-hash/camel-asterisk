@@ -1,1 +1,1 @@
-ElGamal
+Mã hóa ElGamal.
